@@ -1,12 +1,12 @@
-This repository contains Low Level Designs for the below systems:
+## This repository contains Low Level Designs for the below mentioned systems: :female_detective:
 
-ATM
-BookMyShow
-HotelManagementSystem
-LRUCache
-LoggingFramework
-ParkingLot
-SnakenLadder
-StackOverFlow
-TicTacToe
-TrafficControlSystem
+1. ATM
+2. BookMyShow
+3. HotelManagementSystem
+4. LRUCache
+5. LoggingFramework
+6. ParkingLot
+7. SnakenLadder
+8. StackOverFlow
+9. TicTacToe
+10. TrafficControlSystem
